@@ -23,5 +23,7 @@ The refined annotation has two formats: note and txt. The note format is a csv f
 ## References
 
 [1] Soonbeom Choi, et al. "Children’s song dataset for singing voice research." in ISMIR Late Breaking and Demo Papers, 2020.
+
 [2] Chris Cannam, et al. "The Sonic Visualiser: A Visualisation Platform for Semantic Descriptors from Musical Signals" in Proc. of the 7th Int. Society for Music Information Retrieval Conf., 2006, pp. 324-327.
+
 [3] Emilio Molina, et al. "Evaluation Framework for Automatic Singing Transcription." in Proc. of the 15th Int. Society for Music Information Retrieval Conf., 2014, pp. 567-572.
